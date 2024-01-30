@@ -1,4 +1,4 @@
-## Learning Pythong
+## Learning Python
 
 This is a repo to learn python!
 
