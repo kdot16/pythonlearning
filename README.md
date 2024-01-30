@@ -1,6 +1,6 @@
 ## Learning Pythong
 
-This is a repo to learn pythong!
+This is a repo to learn python!
 
 Collaborators:
 - y3pio
