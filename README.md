@@ -2,6 +2,10 @@
 
 This is a repo to learn python!
 
-Collaborators:
-- y3pio
-- kdot16
+Folder structure:
+
+`./problems` - Holds problems that we can do to help us learn Python.
+
+`./notes` - Folder to hold any notes/reference materials throughout our learning.
+
+`./scratch` - Scratch folder to hold any other temporary stuff/code/etc...
