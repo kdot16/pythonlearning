@@ -24,5 +24,7 @@ Problem description below for each of the problem files!
     1.1 First input should be how much money is currently in the user's savings account.
     1.2 Second input should be how much is the monthly interest rates on this savings account.
     1.3 Third input should be how many months do you plan on letting this savings mature.
+
+2. Print out the total amount after calculating the interest for the given number of months.
 ```
 
